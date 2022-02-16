@@ -20,6 +20,7 @@ public class Student {
 
     public void setId(String id) {
         this.id = id;
+        System.out.println();
     }
 
     public String getName() {
